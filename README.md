@@ -126,7 +126,7 @@ To set up and run this project locally, follow these steps:
 
 Here are some glimpses of the Employee Management System in action:
 
-![image alt] (https://github.com/arul-jain/Employee-Management-System/blob/d3b0fe614aed329fa78d2ec3a7cc3dd8e694aaee/Picture1.png)
+![image alt](https://github.com/arul-jain/Employee-Management-System/blob/d3b0fe614aed329fa78d2ec3a7cc3dd8e694aaee/Picture1.png)
 
 ---
 
